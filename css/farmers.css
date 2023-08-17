@@ -259,14 +259,14 @@ a{
   /* Media querries */
 @media only screen and (max-width: 600px) {
   
-   #logo{
-      font-size: 25px;
-  
-   }
-   #logo-img{
-    height: 55px;
-    width: 55px;
-   }
+    #logo{
+        font-size: 23px;
+    
+     }
+     #logo-img{
+      height: 50px;
+      width: 50px;
+     }
   
   
   
